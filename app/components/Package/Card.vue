@@ -40,6 +40,12 @@ const pkgDescription = useMarkdown(() => ({
 }))
 
 const numberFormatter = useNumberFormatter()
+const packageName = computed(() => props.result.package?.name ?? '')
+
+const { copied: copiedPkgName, copy: copyPkgName } = useClipboard({
+  source: packageName,
+  copiedDuring: 2000,
+})
 </script>
 
 <template>
@@ -49,14 +55,23 @@ const numberFormatter = useNumberFormatter()
         :is="headingLevel ?? 'h3'"
         class="font-mono text-sm sm:text-base font-medium text-fg group-hover:text-fg transition-colors duration-200 min-w-0 break-all"
       >
-        <NuxtLink
-          :to="packageRoute(result.package.name)"
-          :prefetch-on="prefetch ? 'visibility' : 'interaction'"
-          class="decoration-none after:content-[''] after:absolute after:inset-0"
-          :data-result-index="index"
-          dir="ltr"
-          >{{ result.package.name }}</NuxtLink
-        >
+        <span class="group relative inline-flex items-center gap-2">
+          <CopyToClipboardButton
+            :copied="copiedPkgName"
+            :copy-text="$t('package.copy_name')"
+            class="inline-flex items-center gap-2"
+            @click.stop="copyPkgName()"
+          >
+            <NuxtLink
+              :to="packageRoute(result.package.name)"
+              :prefetch-on="prefetch ? 'visibility' : 'interaction'"
+              class="decoration-none"
+              :data-result-index="index"
+              dir="ltr"
+              >{{ result.package.name }}</NuxtLink
+            >
+          </CopyToClipboardButton>
+        </span>
         <span
           v-if="isExactMatch"
           class="text-xs px-1.5 py-0.5 ms-2 rounded bg-bg-elevated border border-border-hover text-fg"
