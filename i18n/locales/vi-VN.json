@@ -364,7 +364,8 @@
         "warning": "Cảnh báo",
         "caution": "Thận trọng"
       },
-      "copy_as_markdown": "Sao chép README dạng Markdown"
+      "copy_as_markdown": "Sao chép README dạng Markdown",
+      "error_loading": "Không thể tải chi tiết README"
     },
     "provenance_section": {
       "title": "Provenance",

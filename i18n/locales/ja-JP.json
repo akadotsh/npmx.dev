@@ -334,7 +334,8 @@
         "warning": "警告",
         "caution": "注意"
       },
-      "copy_as_markdown": "READMEをMarkdownとしてコピーする"
+      "copy_as_markdown": "READMEをMarkdownとしてコピーする",
+      "error_loading": "READMEの詳細の読み込みに失敗しました"
     },
     "provenance_section": {
       "title": "Provenance",

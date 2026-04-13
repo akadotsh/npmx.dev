@@ -364,7 +364,8 @@
         "warning": "Peringatan",
         "caution": "Perhatian"
       },
-      "copy_as_markdown": "Salin README sebagai Markdown"
+      "copy_as_markdown": "Salin README sebagai Markdown",
+      "error_loading": "Gagal memuat detail README"
     },
     "provenance_section": {
       "title": "Provenans",

@@ -287,7 +287,8 @@
         "warning": "Предупреждение",
         "caution": "Внимание"
       },
-      "copy_as_markdown": "Копиране на README като Markdown"
+      "copy_as_markdown": "Копиране на README като Markdown",
+      "error_loading": "Неуспешно зареждане на детайлите за README"
     },
     "provenance_section": {
       "title": "Произход",

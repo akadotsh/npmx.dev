@@ -265,7 +265,8 @@
         "warning": "Avvertenza",
         "caution": "Cautela"
       },
-      "copy_as_markdown": "Copia README come Markdown"
+      "copy_as_markdown": "Copia README come Markdown",
+      "error_loading": "Imposible cargar los detalles del README"
     },
     "provenance_section": {
       "title": "Provenienza",

@@ -256,7 +256,8 @@
         "warning": "எச்சரிக்கை",
         "caution": "கவனம்"
       },
-      "copy_as_markdown": "README-ஐ Markdown ஆக நகலெடு"
+      "copy_as_markdown": "README-ஐ Markdown ஆக நகலெடு",
+      "error_loading": "README விவரங்களை ஏற்ற முடியவில்லை"
     },
     "provenance_section": {
       "title": "மூலநிலை",

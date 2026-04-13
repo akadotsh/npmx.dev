@@ -363,7 +363,8 @@
         "warning": "Warnung",
         "caution": "Vorsicht"
       },
-      "copy_as_markdown": "README als Markdown kopieren"
+      "copy_as_markdown": "README als Markdown kopieren",
+      "error_loading": "Fehler beim Laden der README-Details"
     },
     "provenance_section": {
       "title": "Herkunftsnachweis",

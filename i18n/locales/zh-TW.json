@@ -477,7 +477,8 @@
         "warning": "警告",
         "caution": "小心"
       },
-      "copy_as_markdown": "複製 README 為 Markdown 格式"
+      "copy_as_markdown": "複製 README 為 Markdown 格式",
+      "error_loading": "載入 README 詳情失敗"
     },
     "provenance_section": {
       "title": "來源",

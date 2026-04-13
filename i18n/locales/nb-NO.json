@@ -480,7 +480,8 @@
         "warning": "Advarsel",
         "caution": "Forsiktig"
       },
-      "copy_as_markdown": "Kopier README som Markdown"
+      "copy_as_markdown": "Kopier README som Markdown",
+      "error_loading": "Kunne ikke laste inn README-detaljer"
     },
     "provenance_section": {
       "title": "Opprinnelse",

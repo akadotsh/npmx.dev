@@ -208,7 +208,8 @@
     "readme": {
       "title": "ರೀಡ್‌ಮಿ",
       "no_readme": "README ಲಭ್ಯವಿಲ್ಲ.",
-      "callout": {}
+      "callout": {},
+      "error_loading": "README ವಿವರಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ"
     },
     "provenance_section": {},
     "security_downgrade": {},

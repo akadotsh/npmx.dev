@@ -207,7 +207,8 @@
     "readme": {
       "title": "রিডমি",
       "no_readme": "README উপলব্ধ নেই।",
-      "callout": {}
+      "callout": {},
+      "error_loading": "README বিবরণ লোড করা যায়নি"
     },
     "provenance_section": {},
     "security_downgrade": {},
