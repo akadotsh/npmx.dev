@@ -208,8 +208,7 @@
     "readme": {
       "title": "రీడ్మీ",
       "no_readme": "README అందుబాటులో లేదు.",
-      "callout": {},
-      "error_loading": "README వివరాలను లోడ్ చేయడం విఫలమైంది"
+      "callout": {}
     },
     "provenance_section": {},
     "security_downgrade": {},

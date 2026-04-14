@@ -194,8 +194,7 @@
     "readme": {
       "title": "README",
       "no_readme": "README उपलब्ध छैन।",
-      "callout": {},
-      "error_loading": "README विवरण लोड गर्न असफल"
+      "callout": {}
     },
     "provenance_section": {},
     "security_downgrade": {},

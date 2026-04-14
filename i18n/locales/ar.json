@@ -259,8 +259,7 @@
         "warning": "تحذير",
         "caution": "تنبيه"
       },
-      "copy_as_markdown": "نسخ README كـ Markdown",
-      "error_loading": "فشل تحميل تفاصيل ملف README"
+      "copy_as_markdown": "نسخ README كـ Markdown"
     },
     "provenance_section": {
       "title": "إثبات المصدر",

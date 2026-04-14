@@ -47,8 +47,7 @@
   },
   "package": {
     "readme": {
-      "title": "Léame",
-      "error_loading": "Error al cargar los detalles del README"
+      "title": "Léame"
     },
     "access": {
       "grant_button": "otorgar",

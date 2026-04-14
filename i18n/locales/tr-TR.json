@@ -324,8 +324,7 @@
         "warning": "Uyarı",
         "caution": "Dikkat"
       },
-      "copy_as_markdown": "README'yi Markdown olarak kopyala",
-      "error_loading": "README ayrıntıları yüklenemedi"
+      "copy_as_markdown": "README'yi Markdown olarak kopyala"
     },
     "provenance_section": {
       "title": "Köken",

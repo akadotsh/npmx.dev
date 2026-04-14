@@ -333,8 +333,7 @@
         "warning": "इशारा",
         "caution": "सावधान"
       },
-      "copy_as_markdown": "README Markdown म्हणून कॉपी करा",
-      "error_loading": "README तपशील लोड करण्यात अयशस्वी"
+      "copy_as_markdown": "README Markdown म्हणून कॉपी करा"
     },
     "provenance_section": {
       "title": "प्रोव्हनन्स",

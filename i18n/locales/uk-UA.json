@@ -364,8 +364,7 @@
         "warning": "Попередження",
         "caution": "Увага"
       },
-      "copy_as_markdown": "Скопіювати файл README як Markdown",
-      "error_loading": "Не вдалося завантажити деталі README"
+      "copy_as_markdown": "Скопіювати файл README як Markdown"
     },
     "provenance_section": {
       "title": "Походження",

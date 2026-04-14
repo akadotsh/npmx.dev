@@ -287,8 +287,7 @@
         "warning": "Figyelmeztetés",
         "caution": "Óvatosság"
       },
-      "copy_as_markdown": "README másolása Markdownként",
-      "error_loading": "Nem sikerült betölteni a README részleteit"
+      "copy_as_markdown": "README másolása Markdownként"
     },
     "provenance_section": {
       "title": "Eredet",

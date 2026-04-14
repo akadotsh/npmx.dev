@@ -334,8 +334,7 @@
         "warning": "Uwaga",
         "caution": "Ostrożnie"
       },
-      "copy_as_markdown": "Skopiuj README jako Markdown",
-      "error_loading": "Nie udało się załadować szczegółów README"
+      "copy_as_markdown": "Skopiuj README jako Markdown"
     },
     "provenance_section": {
       "title": "Pochodzenie",

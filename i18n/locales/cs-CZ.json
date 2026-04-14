@@ -480,8 +480,7 @@
         "warning": "Varování",
         "caution": "Upozornění"
       },
-      "copy_as_markdown": "Zkopírovat ČTI MĚ jako Markdown",
-      "error_loading": "Nepodařilo se načíst podrobnosti README"
+      "copy_as_markdown": "Zkopírovat ČTI MĚ jako Markdown"
     },
     "provenance_section": {
       "title": "Původ",

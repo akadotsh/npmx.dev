@@ -480,8 +480,7 @@
         "warning": "Предупреждение",
         "caution": "Внимание"
       },
-      "copy_as_markdown": "Скопировать README как Markdown",
-      "error_loading": "Не удалось загрузить сведения README"
+      "copy_as_markdown": "Скопировать README как Markdown"
     },
     "provenance_section": {
       "title": "Происхождение",

@@ -349,8 +349,7 @@
         "warning": "चेतावनी",
         "caution": "सावधानी"
       },
-      "copy_as_markdown": "README को Markdown के रूप में कॉपी करें",
-      "error_loading": "README विवरण लोड नहीं हो सके"
+      "copy_as_markdown": "README को Markdown के रूप में कॉपी करें"
     },
     "provenance_section": {
       "title": "प्रोवेनेंस",

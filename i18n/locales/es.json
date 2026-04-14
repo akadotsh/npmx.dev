@@ -364,8 +364,7 @@
         "warning": "Advertencia",
         "caution": "Precaución"
       },
-      "copy_as_markdown": "Copiar README como Markdown",
-      "error_loading": "Error al cargar los detalles del README"
+      "copy_as_markdown": "Copiar README como Markdown"
     },
     "provenance_section": {
       "title": "Procedencia",

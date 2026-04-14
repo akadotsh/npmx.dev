@@ -364,8 +364,7 @@
         "warning": "Upozorenje",
         "caution": "Oprez"
       },
-      "copy_as_markdown": "Kopirajte README kao Markdown",
-      "error_loading": "Neuspešno učitavanje README detalja"
+      "copy_as_markdown": "Kopirajte README kao Markdown"
     },
     "provenance_section": {
       "title": "Poreklo",

@@ -324,8 +324,7 @@
         "warning": "Xəbərdarlıq",
         "caution": "Diqqət"
       },
-      "copy_as_markdown": "README-ni Markdown olaraq kopyala",
-      "error_loading": "README təfərrüatları yüklənə bilmədi"
+      "copy_as_markdown": "README-ni Markdown olaraq kopyala"
     },
     "provenance_section": {
       "title": "Mənşə",
